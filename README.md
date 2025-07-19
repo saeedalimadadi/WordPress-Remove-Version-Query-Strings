@@ -1,0 +1,1 @@
+# WordPress-Remove-Version-Query-Strings
